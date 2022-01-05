@@ -1,5 +1,6 @@
 book.txt
 
+I like to teach people!
 this is a book.
 teaching feels good.
 I like cookie.
