@@ -1,8 +1,14 @@
 Aboutme.txt
 
+
 will there be a conflict?
 this is a book.
 I like to ride bike.
+
+I like to teach people!
+this is a book.
+teaching feels good.
+
 I like cookie.
 Sharing information feels good!
 Show me the difference!
