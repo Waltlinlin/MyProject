@@ -1,5 +1,6 @@
 Aboutme.txt
 
+Git is a really good tool.
 
 will there be a conflict?
 this is a book.
